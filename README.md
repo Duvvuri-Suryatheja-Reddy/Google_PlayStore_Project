@@ -10,4 +10,4 @@ The team at Google Play Store wants to develop a feature that would enable them 
 
 ### Files:
 - 'Google_playstore.ipynb' contains the code for data analysis
-- 'googleplaystore_v2' is the data file used for analysis
+- 'googleplaystore_v2.csv' is the data file used for analysis
